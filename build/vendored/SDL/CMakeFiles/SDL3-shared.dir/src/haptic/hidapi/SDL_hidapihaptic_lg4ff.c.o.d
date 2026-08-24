@@ -1,0 +1,35 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/haptic/hidapi/SDL_hidapihaptic_lg4ff.c.o: \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/SDL_hidapihaptic_lg4ff.c \
+ /usr/include/stdc-predef.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/SDL_hidapihaptic_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_haptic.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_joystick.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../SDL_syshaptic.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/SDL_joystick_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/SDL_sysjoystick.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/SDL_joystick_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_events_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../video/SDL_sysvideo.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../video/SDL_blit.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_clipboardevents_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_displayevents_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_dropevents_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_keyboard_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_keymap_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_mouse_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_touch_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_pen_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../SDL_internal.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_windowevents_c.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_thread.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_mutex.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_timer.h \
+ /usr/include/math.h

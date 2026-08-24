@@ -1,0 +1,4 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/audio/SDL_audiodev.c.o: \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/SDL_audiodev.c \
+ /usr/include/stdc-predef.h \
+ /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h
