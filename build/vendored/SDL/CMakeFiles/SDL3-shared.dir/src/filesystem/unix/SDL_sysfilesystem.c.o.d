@@ -1,8 +1,8 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/filesystem/unix/SDL_sysfilesystem.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/filesystem/unix/SDL_sysfilesystem.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/filesystem/unix/SDL_sysfilesystem.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/filesystem/unix/../SDL_sysfilesystem.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/filesystem/unix/../SDL_sysfilesystem.h \
  /usr/include/stdio.h /usr/include/x86_64-linux-gnu/sys/stat.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \

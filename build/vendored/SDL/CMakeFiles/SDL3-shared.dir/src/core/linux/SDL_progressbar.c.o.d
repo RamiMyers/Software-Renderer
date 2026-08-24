@@ -1,18 +1,18 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_progressbar.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_progressbar.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_progressbar.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_progressbar.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../video/SDL_sysvideo.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_vulkan.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_stdinc.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_error.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_video.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_begin_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_close_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../video/SDL_blit.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_dbus.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_progressbar.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../video/SDL_sysvideo.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../video/SDL_blit.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
@@ -33,9 +33,9 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_progressbar.c.o: \
  /usr/include/dbus-1.0/dbus/dbus-signature.h \
  /usr/include/dbus-1.0/dbus/dbus-syntax.h \
  /usr/include/dbus-1.0/dbus/dbus-threads.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../SDL_menu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../.././SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../SDL_menu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../.././SDL_list.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
@@ -46,4 +46,4 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_progressbar.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../unix/SDL_appid.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../unix/SDL_appid.h

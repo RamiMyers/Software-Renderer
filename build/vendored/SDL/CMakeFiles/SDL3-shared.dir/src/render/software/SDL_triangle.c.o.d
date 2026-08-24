@@ -1,7 +1,7 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_triangle.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/software/SDL_triangle.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/software/SDL_triangle.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
  /usr/include/limits.h \
@@ -14,6 +14,6 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_triangle.c.o: \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/software/SDL_triangle.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/software/../../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/software/../../video/SDL_blit.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/software/SDL_triangle.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/software/../../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/software/../../video/SDL_blit.h

@@ -1,8 +1,8 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/filesystem/posix/SDL_sysfsops.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/filesystem/posix/SDL_sysfsops.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/filesystem/posix/SDL_sysfsops.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/filesystem/posix/../SDL_sysfilesystem.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/filesystem/posix/../SDL_sysfilesystem.h \
  /usr/include/stdio.h /usr/include/string.h /usr/include/errno.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/errno.h \
  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \

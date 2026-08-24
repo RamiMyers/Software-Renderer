@@ -1,8 +1,8 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/unix/SDL_poll.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/unix/SDL_poll.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/unix/SDL_poll.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/unix/SDL_poll.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/unix/SDL_poll.h \
  /usr/include/poll.h /usr/include/x86_64-linux-gnu/sys/poll.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/poll.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \

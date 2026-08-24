@@ -1,6 +1,6 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/SDL_error.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_error.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_error.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/stdlib/SDL_vacopy.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_error_c.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/stdlib/SDL_vacopy.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_error_c.h

@@ -2,6 +2,7 @@
 #include <SDL3/SDL.h>
 #include <SDL3/SDL_main.h>
 #include <vector>
+#include <renderer.h>
 
 void cleanup(SDL_Window* window);
 
@@ -30,9 +31,18 @@ int main(void) {
         return 1;
     }
 
-    bool running = true;
-    uint32_t* framebuffer = static_cast<uint32_t*>(surface->pixels);
+    uint32_t* pixels = static_cast<uint32_t*>(surface->pixels);
+    Framebuffer framebuffer(pixels, width, height, surface->pitch);
 
+    int ax = 7, ay = 3;
+    int bx = 12, by = 37;
+    int cx = 62, cy = 53;
+
+    framebuffer.putPixel(ax, ay, SR_RED);
+    framebuffer.putPixel(bx, by, SR_GREEN);
+    framebuffer.putPixel(cx, cy, SR_BLUE);
+
+    bool running = true;
     while (running) {
         SDL_Event event;
 
@@ -43,7 +53,6 @@ int main(void) {
         }
 
         if (SDL_LockSurface(surface)) {
-            framebuffer[300 * (surface->pitch / sizeof(uint32_t)) + 400] = 0xFFFFFFFF;
             SDL_UnlockSurface(surface);
         }
 

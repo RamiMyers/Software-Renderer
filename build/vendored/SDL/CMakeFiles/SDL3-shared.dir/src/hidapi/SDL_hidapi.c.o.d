@@ -1,15 +1,15 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/SDL_hidapi.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/SDL_hidapi.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/SDL_hidapi_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/../joystick/usb_ids.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/../joystick/SDL_joystick_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/../SDL_hints_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/../SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/hidapi/hidapi.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/SDL_hidapi_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/../joystick/usb_ids.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/../joystick/SDL_joystick_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/../SDL_hints_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/../SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/hidapi/hidapi.h \
  /usr/include/wchar.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/../core/linux/SDL_udev.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/../core/linux/SDL_udev.h \
  /usr/include/string.h /usr/include/errno.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
@@ -46,4 +46,4 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/hidapi/SDL_hidapi_linux.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/hidapi/SDL_hidapi_linux.h

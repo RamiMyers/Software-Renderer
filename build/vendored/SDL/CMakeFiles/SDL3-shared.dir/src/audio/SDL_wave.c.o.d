@@ -1,7 +1,7 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/audio/SDL_wave.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/SDL_wave.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/audio/SDL_wave.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
  /usr/include/limits.h \
@@ -14,5 +14,5 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/audio/SDL_wave.c.o: \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/SDL_wave.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/SDL_sysaudio.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/audio/SDL_wave.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/audio/SDL_sysaudio.h

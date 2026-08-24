@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/rami/CPP_Projects/SDL-Demo
+CMAKE_SOURCE_DIR = /home/rami/CPP_Projects/Software-Renderer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/rami/CPP_Projects/SDL-Demo/build
+CMAKE_BINARY_DIR = /home/rami/CPP_Projects/Software-Renderer/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles /home/rami/CPP_Projects/SDL-Demo/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles /home/rami/CPP_Projects/Software-Renderer/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -113,22 +113,35 @@ preinstall/fast:
 
 # clear depends
 depend:
-	$(CMAKE_COMMAND) -P /home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles/VerifyGlobs.cmake
+	$(CMAKE_COMMAND) -P /home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named SDL-Demo
+# Target rules for targets named Software-Renderer
 
 # Build rule for target.
-SDL-Demo: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL-Demo
-.PHONY : SDL-Demo
+Software-Renderer: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Software-Renderer
+.PHONY : Software-Renderer
 
 # fast build rule for target.
-SDL-Demo/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SDL-Demo.dir/build.make CMakeFiles/SDL-Demo.dir/build
-.PHONY : SDL-Demo/fast
+Software-Renderer/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Software-Renderer.dir/build.make CMakeFiles/Software-Renderer.dir/build
+.PHONY : Software-Renderer/fast
+
+#=============================================================================
+# Target rules for targets named renderer
+
+# Build rule for target.
+renderer: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 renderer
+.PHONY : renderer
+
+# fast build rule for target.
+renderer/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/renderer.dir/build.make CMakeFiles/renderer.dir/build
+.PHONY : renderer/fast
 
 #=============================================================================
 # Target rules for targets named SDL3-shared
@@ -169,29 +182,53 @@ SDL_uclibc/fast:
 	$(MAKE) $(MAKESILENT) -f vendored/SDL/CMakeFiles/SDL_uclibc.dir/build.make vendored/SDL/CMakeFiles/SDL_uclibc.dir/build
 .PHONY : SDL_uclibc/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SDL-Demo.dir/build.make CMakeFiles/SDL-Demo.dir/main.cpp.o
-.PHONY : main.cpp.o
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Software-Renderer.dir/build.make CMakeFiles/Software-Renderer.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SDL-Demo.dir/build.make CMakeFiles/SDL-Demo.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Software-Renderer.dir/build.make CMakeFiles/Software-Renderer.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SDL-Demo.dir/build.make CMakeFiles/SDL-Demo.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Software-Renderer.dir/build.make CMakeFiles/Software-Renderer.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
+
+src/renderer.o: src/renderer.cpp.o
+.PHONY : src/renderer.o
+
+# target to build an object file
+src/renderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/renderer.dir/build.make CMakeFiles/renderer.dir/src/renderer.cpp.o
+.PHONY : src/renderer.cpp.o
+
+src/renderer.i: src/renderer.cpp.i
+.PHONY : src/renderer.i
+
+# target to preprocess a source file
+src/renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/renderer.dir/build.make CMakeFiles/renderer.dir/src/renderer.cpp.i
+.PHONY : src/renderer.cpp.i
+
+src/renderer.s: src/renderer.cpp.s
+.PHONY : src/renderer.s
+
+# target to generate assembly for a file
+src/renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/renderer.dir/build.make CMakeFiles/renderer.dir/src/renderer.cpp.s
+.PHONY : src/renderer.cpp.s
 
 # Help Target
 help:
@@ -201,13 +238,17 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... SDL-Demo"
 	@echo "... SDL3-shared"
 	@echo "... SDL3_test"
 	@echo "... SDL_uclibc"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Software-Renderer"
+	@echo "... renderer"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/renderer.o"
+	@echo "... src/renderer.i"
+	@echo "... src/renderer.s"
 .PHONY : help
 
 
@@ -219,7 +260,7 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	$(CMAKE_COMMAND) -P /home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles/VerifyGlobs.cmake
+	$(CMAKE_COMMAND) -P /home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,5 +1,7 @@
-CMakeFiles/SDL-Demo.dir/main.cpp.o: \
- /home/rami/CPP_Projects/SDL-Demo/main.cpp /usr/include/stdc-predef.h \
+CMakeFiles/renderer.dir/src/renderer.cpp.o: \
+ /home/rami/CPP_Projects/Software-Renderer/src/renderer.cpp \
+ /usr/include/stdc-predef.h \
+ /home/rami/CPP_Projects/Software-Renderer/include/renderer.h \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -148,74 +150,7 @@ CMakeFiles/SDL-Demo.dir/main.cpp.o: \
  /usr/include/c++/13/bits/locale_facets.tcc \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
- /usr/include/c++/13/bits/istream.tcc \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_stdinc.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_platform_defines.h \
- /usr/include/string.h /usr/include/strings.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /usr/include/c++/13/bits/istream.tcc /usr/include/c++/13/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_close_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_assert.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_asyncio.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_atomic.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_audio.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_endian.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_error.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_mutex.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_thread.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_properties.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_iostream.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_bits.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_blendmode.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_camera.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_pixels.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_surface.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_rect.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_clipboard.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_cpuinfo.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_dialog.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_video.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_dlopennote.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_events.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_gamepad.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_guid.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_joystick.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_power.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_sensor.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_keyboard.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_keycode.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_scancode.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_mouse.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_notification.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_pen.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_touch.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_filesystem.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_gpu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_haptic.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_hidapi.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_hints.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_init.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_loadso.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_locale.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_log.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_messagebox.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_metal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_misc.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_platform.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_process.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_render.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_storage.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_system.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_time.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_timer.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_tray.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_version.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_oldnames.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_main.h \
- /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
- /usr/include/c++/13/bits/stl_vector.h \
- /usr/include/c++/13/bits/stl_bvector.h \
- /usr/include/c++/13/bits/vector.tcc
+ /usr/include/x86_64-linux-gnu/bits/stdint-least.h

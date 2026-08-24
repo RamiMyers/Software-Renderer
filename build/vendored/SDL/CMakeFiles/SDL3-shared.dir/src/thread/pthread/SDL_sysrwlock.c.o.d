@@ -1,7 +1,7 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_sysrwlock.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/thread/pthread/SDL_sysrwlock.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/thread/pthread/SDL_sysrwlock.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
  /usr/include/errno.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \

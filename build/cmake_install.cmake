@@ -1,4 +1,4 @@
-# Install script for directory: /home/rami/CPP_Projects/SDL-Demo
+# Install script for directory: /home/rami/CPP_Projects/Software-Renderer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/rami/CPP_Projects/SDL-Demo/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/rami/CPP_Projects/Software-Renderer/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

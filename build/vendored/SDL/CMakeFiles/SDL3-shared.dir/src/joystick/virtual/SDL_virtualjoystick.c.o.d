@@ -1,28 +1,28 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/joystick/virtual/SDL_virtualjoystick.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/SDL_virtualjoystick.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/SDL_virtualjoystick.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/SDL_virtualjoystick_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../SDL_sysjoystick.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../SDL_joystick_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_events_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/../video/SDL_sysvideo.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_vulkan.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_stdinc.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_error.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_video.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_begin_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_close_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/../video/SDL_blit.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_clipboardevents_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_displayevents_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_dropevents_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_keyboard_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_keymap_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_mouse_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_touch_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_pen_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/../SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../../events/SDL_windowevents_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/joystick/virtual/../SDL_joystick_c.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/SDL_virtualjoystick_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../SDL_sysjoystick.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../SDL_joystick_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_events_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/../video/SDL_sysvideo.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/../video/SDL_blit.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_clipboardevents_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_displayevents_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_dropevents_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_keyboard_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_keymap_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_mouse_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_touch_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_pen_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/../SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../../events/SDL_windowevents_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/joystick/virtual/../SDL_joystick_c.h

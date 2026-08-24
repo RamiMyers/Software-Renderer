@@ -1,7 +1,7 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_syscond.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/thread/pthread/SDL_syscond.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/thread/pthread/SDL_syscond.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
@@ -39,4 +39,4 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_syscond.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/thread/pthread/SDL_sysmutex_c.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/thread/pthread/SDL_sysmutex_c.h

@@ -220,10 +220,10 @@
 /* #undef HAVE_LIBUDEV_H */
 /* #undef HAVE_LIBDECOR_H */
 /* #undef HAVE_LIBURING_H */
-#define HAVE_FRIBIDI_H 1
-#define SDL_FRIBIDI_DYNAMIC "libfribidi.so.0"
-#define HAVE_LIBTHAI_H 1
-#define SDL_LIBTHAI_DYNAMIC "libthai.so.0"
+/* #undef HAVE_FRIBIDI_H */
+/* #undef SDL_FRIBIDI_DYNAMIC */
+/* #undef HAVE_LIBTHAI_H */
+/* #undef SDL_LIBTHAI_DYNAMIC */
 
 /* #undef HAVE_DDRAW_H */
 /* #undef HAVE_DSOUND_H */
@@ -268,8 +268,8 @@
 /* #undef SDL_THREADS_DISABLED */
 
 /* Enable various audio drivers */
-/* #undef SDL_AUDIO_DRIVER_ALSA */
-/* #undef SDL_AUDIO_DRIVER_ALSA_DYNAMIC */
+#define SDL_AUDIO_DRIVER_ALSA 1
+#define SDL_AUDIO_DRIVER_ALSA_DYNAMIC "libasound.so.2"
 /* #undef SDL_AUDIO_DRIVER_OPENSLES */
 /* #undef SDL_AUDIO_DRIVER_AAUDIO */
 /* #undef SDL_AUDIO_DRIVER_COREAUDIO */

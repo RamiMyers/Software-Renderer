@@ -54,7 +54,7 @@ unset(_cmake_expected_targets)
 add_library(SDL3::Headers INTERFACE IMPORTED)
 
 set_target_properties(SDL3::Headers PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/include-revision;/home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include"
+  INTERFACE_INCLUDE_DIRECTORIES "/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/include-revision;/home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include"
 )
 
 # This file does not depend on other imported targets which have

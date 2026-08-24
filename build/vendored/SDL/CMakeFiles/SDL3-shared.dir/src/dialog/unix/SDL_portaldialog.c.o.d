@@ -1,9 +1,9 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/dialog/unix/SDL_portaldialog.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/dialog/unix/SDL_portaldialog.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/dialog/unix/SDL_portaldialog.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/dialog/unix/../SDL_dialog_utils.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/dialog/unix/../../core/linux/SDL_dbus.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/dialog/unix/../SDL_dialog_utils.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/dialog/unix/../../core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
@@ -24,9 +24,9 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/dialog/unix/SDL_portaldialog.c.o: \
  /usr/include/dbus-1.0/dbus/dbus-signature.h \
  /usr/include/dbus-1.0/dbus/dbus-syntax.h \
  /usr/include/dbus-1.0/dbus/dbus-threads.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/dialog/unix/../../core/linux/../../SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/dialog/unix/../../core/linux/../../SDL_menu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/dialog/unix/../../core/linux/../.././SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/dialog/unix/../../core/linux/../../SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/dialog/unix/../../core/linux/../../SDL_menu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/dialog/unix/../../core/linux/../.././SDL_list.h \
  /usr/include/errno.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \

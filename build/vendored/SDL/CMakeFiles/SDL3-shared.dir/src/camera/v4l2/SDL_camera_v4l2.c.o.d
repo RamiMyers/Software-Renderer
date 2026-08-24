@@ -1,7 +1,7 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/SDL_camera_v4l2.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/SDL_camera_v4l2.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
  /usr/include/dirent.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/dirent.h \
@@ -63,16 +63,16 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o: \
  /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/linux/v4l2-common.h /usr/include/linux/v4l2-controls.h \
  /usr/include/linux/const.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../SDL_syscamera.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../video/SDL_blit.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../SDL_camera_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../video/SDL_pixels_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../thread/SDL_systhread.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../thread/SDL_thread_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../thread/pthread/SDL_systhread_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../SDL_syscamera.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../video/SDL_blit.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../SDL_camera_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../video/SDL_pixels_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../thread/SDL_systhread.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../thread/SDL_thread_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../thread/pthread/SDL_systhread_c.h \
  /usr/include/pthread.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
@@ -90,9 +90,9 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/v4l2/SDL_camera_v4l2.c.o: \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../thread/../SDL_error_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../thread/../SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_evdev_capabilities.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../thread/../SDL_error_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../thread/../SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_evdev_capabilities.h \
  /usr/include/linux/input.h /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/linux/input-event-codes.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_udev.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/v4l2/../../core/linux/SDL_udev.h

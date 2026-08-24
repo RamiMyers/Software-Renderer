@@ -1,6 +1,6 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/audio/dummy/SDL_dummyaudio.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/dummy/SDL_dummyaudio.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/audio/dummy/SDL_dummyaudio.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/dummy/../SDL_sysaudio.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/audio/dummy/SDL_dummyaudio.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/audio/dummy/../SDL_sysaudio.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/audio/dummy/SDL_dummyaudio.h

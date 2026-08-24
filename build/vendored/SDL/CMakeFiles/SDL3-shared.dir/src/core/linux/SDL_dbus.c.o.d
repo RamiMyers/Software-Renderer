@@ -1,12 +1,12 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_dbus.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_dbus.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_dbus.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../SDL_menu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../.././SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../stdlib/SDL_vacopy.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_dbus.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../SDL_menu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../.././SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../stdlib/SDL_vacopy.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \

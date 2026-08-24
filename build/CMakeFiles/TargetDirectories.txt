@@ -1,8 +1,9 @@
-/home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles/SDL-Demo.dir
-/home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles/edit_cache.dir
-/home/rami/CPP_Projects/SDL-Demo/build/CMakeFiles/rebuild_cache.dir
-/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
-/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/CMakeFiles/SDL3_test.dir
-/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
-/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/CMakeFiles/edit_cache.dir
-/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
+/home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles/Software-Renderer.dir
+/home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles/renderer.dir
+/home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles/edit_cache.dir
+/home/rami/CPP_Projects/Software-Renderer/build/CMakeFiles/rebuild_cache.dir
+/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
+/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/CMakeFiles/SDL3_test.dir
+/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/CMakeFiles/edit_cache.dir
+/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/CMakeFiles/rebuild_cache.dir

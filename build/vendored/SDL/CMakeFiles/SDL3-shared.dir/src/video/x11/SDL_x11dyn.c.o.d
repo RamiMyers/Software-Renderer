@@ -1,8 +1,8 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11dyn.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/video/x11/SDL_x11dyn.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/video/x11/SDL_x11dyn.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/video/x11/SDL_x11dyn.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/video/x11/SDL_x11dyn.h \
  /usr/include/X11/Xlib.h /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/X11/X.h /usr/include/X11/Xfuncproto.h \
  /usr/include/X11/Xosdefs.h \
@@ -71,4 +71,4 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/video/x11/SDL_x11dyn.c.o: \
  /usr/include/X11/extensions/XTest.h \
  /usr/include/X11/extensions/xtestconst.h \
  /usr/include/X11/extensions/XInput.h /usr/include/X11/extensions/XI.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/video/x11/SDL_x11sym.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/video/x11/SDL_x11sym.h

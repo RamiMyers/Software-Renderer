@@ -1,7 +1,7 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_threadprio.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_threadprio.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_threadprio.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
@@ -38,7 +38,7 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_threadprio.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/SDL_dbus.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
@@ -58,6 +58,6 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_threadprio.c.o: \
  /usr/include/dbus-1.0/dbus/dbus-signature.h \
  /usr/include/dbus-1.0/dbus/dbus-syntax.h \
  /usr/include/dbus-1.0/dbus/dbus-threads.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../../SDL_menu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/core/linux/../.././SDL_list.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../../SDL_menu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/core/linux/../.././SDL_list.h

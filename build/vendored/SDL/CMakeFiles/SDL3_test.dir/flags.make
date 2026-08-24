@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/rami/CPP_Projects/SDL-Demo/build/vendored/SDL/include-revision -I/home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include
+C_INCLUDES = -I/home/rami/CPP_Projects/Software-Renderer/build/vendored/SDL/include-revision -I/home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include
 
 C_FLAGS = -Wall -Wundef -Wfloat-conversion -fno-strict-aliasing -Wshadow -Wno-unused-local-typedefs -Wimplicit-fallthrough -fdiagnostics-color=always
 

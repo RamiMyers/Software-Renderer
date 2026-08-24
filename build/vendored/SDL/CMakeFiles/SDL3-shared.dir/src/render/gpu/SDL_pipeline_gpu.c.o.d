@@ -1,11 +1,11 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/render/gpu/SDL_pipeline_gpu.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/SDL_pipeline_gpu.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/SDL_pipeline_gpu.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/SDL_gpu_util.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/SDL_pipeline_gpu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/SDL_shaders_gpu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/../SDL_sysrender.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/../../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/../../video/SDL_blit.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/render/gpu/../SDL_yuv_sw_c.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/SDL_gpu_util.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/SDL_pipeline_gpu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/SDL_shaders_gpu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/../SDL_sysrender.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/../../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/../../video/SDL_blit.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/render/gpu/../SDL_yuv_sw_c.h

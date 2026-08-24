@@ -1,4 +1,4 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/SDL_guid.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_guid.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_guid.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h

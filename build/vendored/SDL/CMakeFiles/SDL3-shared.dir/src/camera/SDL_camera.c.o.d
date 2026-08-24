@@ -1,16 +1,16 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/SDL_camera.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/SDL_camera.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/SDL_camera.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/SDL_syscamera.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../video/SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../video/SDL_blit.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/SDL_camera_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../video/SDL_pixels_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../thread/SDL_systhread.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../thread/SDL_thread_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../thread/pthread/SDL_systhread_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/SDL_syscamera.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../video/SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../video/SDL_blit.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/SDL_camera_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../video/SDL_pixels_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../thread/SDL_systhread.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../thread/SDL_thread_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../thread/pthread/SDL_systhread_c.h \
  /usr/include/pthread.h /usr/include/features.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
@@ -35,5 +35,5 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/camera/SDL_camera.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../thread/../SDL_error_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/camera/../thread/../SDL_internal.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../thread/../SDL_error_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/camera/../thread/../SDL_internal.h

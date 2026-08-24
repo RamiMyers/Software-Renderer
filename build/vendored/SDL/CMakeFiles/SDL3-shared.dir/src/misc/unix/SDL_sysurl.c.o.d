@@ -1,8 +1,8 @@
 vendored/SDL/CMakeFiles/SDL3-shared.dir/src/misc/unix/SDL_sysurl.c.o: \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/SDL_sysurl.c \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/SDL_sysurl.c \
  /usr/include/stdc-predef.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/SDL_internal.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../SDL_sysurl.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/SDL_internal.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../SDL_sysurl.h \
  /usr/include/stdio.h /usr/include/stdlib.h /usr/include/string.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
@@ -46,7 +46,7 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/misc/unix/SDL_sysurl.c.o: \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../core/linux/SDL_dbus.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
@@ -66,16 +66,16 @@ vendored/SDL/CMakeFiles/SDL3-shared.dir/src/misc/unix/SDL_sysurl.c.o: \
  /usr/include/dbus-1.0/dbus/dbus-signature.h \
  /usr/include/dbus-1.0/dbus/dbus-syntax.h \
  /usr/include/dbus-1.0/dbus/dbus-threads.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../core/linux/../../SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../core/linux/../../SDL_menu.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../core/linux/../.././SDL_list.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../video/wayland/SDL_waylandutil.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../video/wayland/../SDL_sysvideo.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_vulkan.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_stdinc.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_error.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_video.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_begin_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/include/SDL3/SDL_close_code.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../video/wayland/../SDL_surface_c.h \
- /home/rami/CPP_Projects/SDL-Demo/vendored/SDL/src/misc/unix/../../video/wayland/../SDL_blit.h
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../core/linux/../../SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../core/linux/../../SDL_menu.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../core/linux/../.././SDL_list.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../video/wayland/SDL_waylandutil.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../video/wayland/../SDL_sysvideo.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../video/wayland/../SDL_surface_c.h \
+ /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/src/misc/unix/../../video/wayland/../SDL_blit.h
