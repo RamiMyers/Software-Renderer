@@ -2,5 +2,5 @@
 
 void Framebuffer::putPixel(int x, int y, int color) {
     if (x > width || y > height) return;
-    pixels[y * (pitch / sizeof(uint32_t)) + x] = color;
+    pixels[(height - y) * (pitch / sizeof(uint32_t)) + x] = color;
 }

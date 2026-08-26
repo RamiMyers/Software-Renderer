@@ -2,9 +2,11 @@
 #include <SDL3/SDL.h>
 #include <SDL3/SDL_main.h>
 #include <vector>
+#include <cmath>
 #include <renderer.h>
 
 void cleanup(SDL_Window* window);
+void drawLine(Framebuffer fb, int ax, int ay, int bx, int by, int color);
 
 int main(void) {
     if (!SDL_Init(SDL_INIT_VIDEO)) {
@@ -35,12 +37,16 @@ int main(void) {
     Framebuffer framebuffer(pixels, width, height, surface->pitch);
 
     int ax = 7, ay = 3;
-    int bx = 12, by = 37;
-    int cx = 62, cy = 53;
+    int bx = 400, by = 300;
+    int cx = 600, cy = 53;
 
-    framebuffer.putPixel(ax, ay, SR_RED);
-    framebuffer.putPixel(bx, by, SR_GREEN);
-    framebuffer.putPixel(cx, cy, SR_BLUE);
+    framebuffer.putPixel(ax, ay, SR_WHITE);
+    framebuffer.putPixel(bx, by, SR_WHITE);
+    framebuffer.putPixel(cx, cy, SR_WHITE);
+
+    drawLine(framebuffer, ax, ay, bx, by, SR_RED);
+    drawLine(framebuffer, bx, by, cx, cy, SR_GREEN);
+    drawLine(framebuffer, cx, cy, ax, ay, SR_BLUE);
 
     bool running = true;
     while (running) {
@@ -67,4 +73,12 @@ int main(void) {
 void cleanup(SDL_Window* window) {
     SDL_DestroyWindow(window);
     SDL_Quit();
+}
+
+void drawLine(Framebuffer fb, int ax, int ay, int bx, int by, int color) {
+    for (float t = 0; t < 1; t += 0.001) {
+        int x = ax + t * (bx - ax);
+        int y = ay + t * (by - ay);
+        fb.putPixel(x, y, color);
+    }
 }

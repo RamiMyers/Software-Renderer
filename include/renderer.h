@@ -2,9 +2,9 @@
 #include <cstdint>
 
 #define SR_WHITE 0xFFFFFFFF
-#define SR_RED   0xFF0000FF
-#define SR_GREEN 0x00FF00FF
-#define SR_BLUE  0x0000FFFF
+#define SR_RED   0xFFFF0000
+#define SR_GREEN 0xFF00FF00
+#define SR_BLUE  0xFF0000FF
 
 class Framebuffer {
     private:
