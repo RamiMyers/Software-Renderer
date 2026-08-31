@@ -3,6 +3,7 @@
 #include <SDL3/SDL_main.h>
 #include <vector>
 #include <cmath>
+#include <utility>
 #include <renderer.h>
 
 void cleanup(SDL_Window* window);
@@ -36,7 +37,7 @@ int main(void) {
     uint32_t* pixels = static_cast<uint32_t*>(surface->pixels);
     Framebuffer framebuffer(pixels, width, height, surface->pitch);
 
-    int ax = 7, ay = 3;
+    int ax = 200, ay = 150;
     int bx = 400, by = 300;
     int cx = 600, cy = 53;
 
@@ -76,9 +77,30 @@ void cleanup(SDL_Window* window) {
 }
 
 void drawLine(Framebuffer fb, int ax, int ay, int bx, int by, int color) {
-    for (float t = 0; t < 1; t += 0.001) {
-        int x = ax + t * (bx - ax);
-        int y = ay + t * (by - ay);
-        fb.putPixel(x, y, color);
+    float t;
+    int y;
+    bool steep = std::abs(ax - bx) < std::abs(ay - by);
+
+    // Swaps x & y values of each point if it is steep; transposes image so that lines are temporarily more horizontal
+    if (steep) {
+        std::swap(ax, ay);
+        std::swap(bx, by);
+    }
+    // Swaps x's if the start point is to the right of the end point
+    if (ax > bx) {
+        std::swap(ax, bx);
+        std::swap(ay, by);
+    }
+    // Steps through each x value
+    for (int x = ax; x < bx; x++) {
+        // Calculates time value using linear interpolation
+        t = (x - ax) / static_cast<float>(bx - ax);
+        // Calculates y value using linear interpolation
+        y = std::round(ay + t * (by - ay));
+        // De-transposes of the steep flag was set, otherwise puts the pixels normally
+        if (steep)
+            fb.putPixel(y, x, color);
+        else
+            fb.putPixel(x, y, color);
     }
 }
