@@ -241,6 +241,7 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: \
  /usr/include/c++/13/tr1/modified_bessel_func.tcc \
  /usr/include/c++/13/tr1/poly_hermite.tcc \
  /usr/include/c++/13/tr1/poly_laguerre.tcc \
- /usr/include/c++/13/tr1/riemann_zeta.tcc \
+ /usr/include/c++/13/tr1/riemann_zeta.tcc /usr/include/c++/13/utility \
+ /usr/include/c++/13/bits/stl_relops.h \
  /home/rami/CPP_Projects/Software-Renderer/include/renderer.h \
  /usr/include/c++/13/cstdint

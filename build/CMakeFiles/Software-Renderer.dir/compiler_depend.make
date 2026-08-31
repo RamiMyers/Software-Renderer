@@ -119,6 +119,7 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
   /usr/include/c++/13/bits/stl_iterator_base_funcs.h \
   /usr/include/c++/13/bits/stl_iterator_base_types.h \
   /usr/include/c++/13/bits/stl_pair.h \
+  /usr/include/c++/13/bits/stl_relops.h \
   /usr/include/c++/13/bits/stl_uninitialized.h \
   /usr/include/c++/13/bits/stl_vector.h \
   /usr/include/c++/13/bits/streambuf.tcc \
@@ -176,6 +177,7 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
   /usr/include/c++/13/tuple \
   /usr/include/c++/13/type_traits \
   /usr/include/c++/13/typeinfo \
+  /usr/include/c++/13/utility \
   /usr/include/c++/13/vector \
   /usr/include/ctype.h \
   /usr/include/endian.h \
@@ -333,9 +335,7 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
 
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
-/usr/include/c++/13/bits/stl_function.h:
-
-/usr/include/c++/13/tr1/beta_function.tcc:
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
 
 /usr/include/c++/13/bits/uses_allocator_args.h:
 
@@ -386,6 +386,10 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
 /usr/include/c++/13/iosfwd:
 
 /usr/include/c++/13/bits/ostream_insert.h:
+
+/usr/include/c++/13/bits/stl_function.h:
+
+/usr/include/c++/13/tr1/beta_function.tcc:
 
 /usr/include/c++/13/bits/move.h:
 
@@ -557,6 +561,10 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
 
 /usr/include/c++/13/tuple:
 
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
+
 /usr/include/c++/13/bits/ostream.tcc:
 
 /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_thread.h:
@@ -647,11 +655,15 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
 
 /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_endian.h:
 
+/usr/include/c++/13/utility:
+
 /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_close_code.h:
 
 /usr/include/c++/13/bits/vector.tcc:
 
 /home/rami/CPP_Projects/Software-Renderer/vendored/SDL/include/SDL3/SDL_render.h:
+
+/usr/include/c++/13/bits/stl_relops.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
@@ -666,6 +678,10 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
 /usr/include/stdint.h:
 
 /usr/include/c++/13/cctype:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
+
+/usr/include/c++/13/ext/atomicity.h:
 
 /usr/include/c++/13/tr1/gamma.tcc:
 
@@ -847,16 +863,6 @@ CMakeFiles/Software-Renderer.dir/src/main.cpp.o: /home/rami/CPP_Projects/Softwar
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
-
-/usr/include/c++/13/ext/atomicity.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
